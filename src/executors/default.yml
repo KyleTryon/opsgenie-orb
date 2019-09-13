@@ -1,0 +1,5 @@
+resource_class: small
+description: >
+  Default reporting environment for Opsgenie. This is a small Ubuntu based Docker image with a low resource class.
+docker:
+  - image: cimg/base
